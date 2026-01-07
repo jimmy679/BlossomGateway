@@ -1,4 +1,4 @@
-![image](https://github.com/ZhangBlossom/BlossomGateway/assets/110703773/82ee1d75-99e3-4d9f-8df9-455f09a58cf3)
+![e8bd17ba3e00f3259aa3ba1a292792c9](https://github.com/user-attachments/assets/130b05ea-c0b3-4151-b901-5aa4d1c6ea4e)
 
 
 C端项目推荐：https://github.com/Towelove/Towelove
